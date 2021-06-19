@@ -18,7 +18,7 @@ _Kastor Pro_ Application that makes it easy for you to manage your bills and dea
 - The owner can create and delete multiple admins
 - Admins can create and manage Invoices
 - Statistics can be made for paid, unpaid and partially paid invoices
-- Invoices in Excel format cannot be retrieved
+- Invoices can be retrieved in Excel format
 - The admini receives a notification if the user adds a new invoice
 - When the user adds a new invoice, he receives a message in his email reminding him that he has added a new invoice
 
